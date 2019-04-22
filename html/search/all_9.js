@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['leancloud',['LeanCloud',['../namespaceLeanCloud.htm',1,'']]],
+  ['leavelobby',['LeaveLobby',['../classLeanCloud_1_1Play_1_1Play.htm#a2a83f4545dc69a93011b52aeaf81706d',1,'LeanCloud::Play::Play']]],
+  ['leaveroom',['LeaveRoom',['../classLeanCloud_1_1Play_1_1Play.htm#a0f6595f363e63e8827a15cb3cbf52f98',1,'LeanCloud::Play::Play']]],
+  ['lobby_5fjoined',['LOBBY_JOINED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba36aef9e382dd222b59be3543b3e4d21b',1,'LeanCloud::Play']]],
+  ['lobby_5fleft',['LOBBY_LEFT',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3badbc07deedb6677c4a8e6c8b826458104',1,'LeanCloud::Play']]],
+  ['lobby_5fopen',['LOBBY_OPEN',['../namespaceLeanCloud_1_1Play.htm#a77e9fa1bad969561460c42b0a324ff71a169f186b1af7fb99a2989b9a1467d9e9',1,'LeanCloud::Play']]],
+  ['lobby_5froom_5flist_5fupdated',['LOBBY_ROOM_LIST_UPDATED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3bac1492f5fccfd1f602651a8196827c54e',1,'LeanCloud::Play']]],
+  ['lobbyhandler_2ecs',['LobbyHandler.cs',['../LobbyHandler_8cs.htm',1,'']]],
+  ['lobbyroom',['LobbyRoom',['../classLeanCloud_1_1Play_1_1LobbyRoom.htm',1,'LeanCloud::Play']]],
+  ['lobbyroom_2ecs',['LobbyRoom.cs',['../LobbyRoom_8cs.htm',1,'']]],
+  ['lobbyroomlist',['LobbyRoomList',['../classLeanCloud_1_1Play_1_1Play.htm#a18306bccd46a4cc134124a1e534bf390',1,'LeanCloud::Play::Play']]],
+  ['logdelegate',['LogDelegate',['../classLeanCloud_1_1Play_1_1Logger.htm#a3765558e251e22e80744eea70fca1e07',1,'LeanCloud::Play::Logger']]],
+  ['logger',['Logger',['../classLeanCloud_1_1Play_1_1Logger.htm',1,'LeanCloud::Play']]],
+  ['logger_2ecs',['Logger.cs',['../Logger_8cs.htm',1,'']]],
+  ['loglevel',['LogLevel',['../namespaceLeanCloud_1_1Play.htm#a737889903fc99fd1768a1c84f7f6ab7d',1,'LeanCloud::Play']]],
+  ['play',['Play',['../namespaceLeanCloud_1_1Play.htm',1,'LeanCloud']]]
+];

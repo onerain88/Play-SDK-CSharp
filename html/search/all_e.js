@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['receivergroup',['ReceiverGroup',['../classLeanCloud_1_1Play_1_1SendEventOptions.htm#a062f520d38b5155666a770f14727a636',1,'LeanCloud.Play.SendEventOptions.ReceiverGroup()'],['../namespaceLeanCloud_1_1Play.htm#a39a494546b3d1c4e01ab86caf9cf3e52',1,'LeanCloud.Play.ReceiverGroup()']]],
+  ['reconnect',['Reconnect',['../classLeanCloud_1_1Play_1_1Play.htm#a48637ad52596638bea08a71cdc4a1026',1,'LeanCloud::Play::Play']]],
+  ['reconnectandrejoin',['ReconnectAndRejoin',['../classLeanCloud_1_1Play_1_1Play.htm#ab7fa3b0ba563f1d6ad0651f834b91417',1,'LeanCloud::Play::Play']]],
+  ['region',['Region',['../namespaceLeanCloud_1_1Play.htm#a662b0bde8619fb7d1656d5a59665911d',1,'LeanCloud::Play']]],
+  ['region_2ecs',['Region.cs',['../Region_8cs.htm',1,'']]],
+  ['rejoinroom',['RejoinRoom',['../classLeanCloud_1_1Play_1_1Play.htm#a216f97e339f61d96cc7391ff309fbb85',1,'LeanCloud::Play::Play']]],
+  ['room',['Room',['../classLeanCloud_1_1Play_1_1Play.htm#a3bd3ea0219fa1c07496af2d07e0d202a',1,'LeanCloud::Play::Play']]],
+  ['room',['Room',['../classLeanCloud_1_1Play_1_1Room.htm',1,'LeanCloud::Play']]],
+  ['room_2ecs',['Room.cs',['../Room_8cs.htm',1,'']]],
+  ['room_5fcreate_5ffailed',['ROOM_CREATE_FAILED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3babbf4fb308350420e2d2703502f197f67',1,'LeanCloud::Play']]],
+  ['room_5fcreated',['ROOM_CREATED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba03a8810482beceb44b0868800a32781d',1,'LeanCloud::Play']]],
+  ['room_5fcustom_5fproperties_5fchanged',['ROOM_CUSTOM_PROPERTIES_CHANGED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba6a889e23f1f61b3a065aed642b8864a9',1,'LeanCloud::Play']]],
+  ['room_5fjoin_5ffailed',['ROOM_JOIN_FAILED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba11780f28b445b5480c53e502210b82e1',1,'LeanCloud::Play']]],
+  ['room_5fjoined',['ROOM_JOINED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba0aa02ae3b7c7f4f0e95e611adfaab89f',1,'LeanCloud::Play']]],
+  ['room_5fleft',['ROOM_LEFT',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba6a08a76f61f2abbe7d8c32010673e0bd',1,'LeanCloud::Play']]],
+  ['room_5fopen_5fchanged',['ROOM_OPEN_CHANGED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3ba4cf10d0e11659f57f4ec5b6e4aeaee25',1,'LeanCloud::Play']]],
+  ['room_5fvisible_5fchanged',['ROOM_VISIBLE_CHANGED',['../namespaceLeanCloud_1_1Play.htm#ad5b1a0a8d7b581f70ee03e5b2cf4dd3bab881fb6cf9744d271b7a767cbf6289ad',1,'LeanCloud::Play']]],
+  ['roomname',['RoomName',['../classLeanCloud_1_1Play_1_1LobbyRoom.htm#a7470261d15fe3dd0193481e662f5170a',1,'LeanCloud::Play::LobbyRoom']]],
+  ['roomoptions',['RoomOptions',['../classLeanCloud_1_1Play_1_1RoomOptions.htm',1,'LeanCloud::Play']]],
+  ['roomoptions',['RoomOptions',['../classLeanCloud_1_1Play_1_1RoomOptions.htm#af779a1032c5ea8dd0fa457ce0e063d05',1,'LeanCloud::Play::RoomOptions']]],
+  ['roomoptions_2ecs',['RoomOptions.cs',['../RoomOptions_8cs.htm',1,'']]]
+];
